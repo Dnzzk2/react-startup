@@ -27,8 +27,8 @@
 1. 克隆此仓库：
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Dnzzk2/react-startup.git new_folder_name
+   cd new_folder_name
    ```
 
 2. 安装依赖：
